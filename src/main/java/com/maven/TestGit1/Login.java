@@ -9,5 +9,7 @@ public class Login {
 	
 	String empId;
 	
+	String name;
+
 
 }
