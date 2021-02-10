@@ -6,5 +6,7 @@ public class Login {
 	
 	
 	int j;
+	
+	String name;
 
 }
