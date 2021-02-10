@@ -6,5 +6,8 @@ public class Login {
 	
 	
 	int j;
+	
+	String empId;
+	
 
 }
