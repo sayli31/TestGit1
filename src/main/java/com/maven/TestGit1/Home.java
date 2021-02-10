@@ -4,7 +4,7 @@ public class Home {
 	
 	public void m1()
 	{
-		
+		System.out.println("hello");
 	}
 
 }
